@@ -1,4 +1,4 @@
-# UChmups Demo
+# Shmups Demo
 To run the game, open the `Game` class and run the `main` method
 
 ----
