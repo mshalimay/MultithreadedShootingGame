@@ -47,6 +47,7 @@ Terminology:
 - *Raster* sprites in this game are sprites based on *png* images
 - *Vector* sprites in this game are sprites directly draw on the screen using Java's graphic libraries
 
+## Objects description
 #### Screen
 - Objects appear in the RHS side from the screen and move to the LHS
 - Off screen behavior
