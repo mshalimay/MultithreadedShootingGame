@@ -1,4 +1,5 @@
 # Shmups Demo
+This is an OOP Shmups genre game. 
 To run the game, open the `Game` class and run the `main` method
 
 ----
