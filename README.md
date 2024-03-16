@@ -1,14 +1,10 @@
-# Shmups Demo
-This is a multithreaded OOP Shmups genre game.
+# Space-Shooter Demo
+This is a demo for a Space-Shooter-Game to exercise Java's multithreaded, OOP and user interaction capabilities.
+
 To run the game, open the `Game` class and run the `main` method
 
 ----
 # Game Description
-
-"Schmups" (abbreviation of "Shoot 'em ups") is a term used to refer to classic space-shooter games from the 80's and 90's. Examples include 'Space Invaders', 'Gradius', 'Asteroids', among many. 
-
-This is a demo for a SChmups game developed for MPCS 51036 Fall 2022.
-
 In this game, you are the controller of a ship traveling the space, having to dodge asteroids, meteors and to face enemies trying to destroy the ship. 
 
 Enemies shoot bullets and guided missiles. To protect yourself, you may shoot bullets or the cannon laser. To shoot bullets, press the ``SPACE`` key. To shoot *Cannon Lasers*, press and *hold* the ``F`` key. 
